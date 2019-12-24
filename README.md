@@ -1,2 +1,2 @@
 # ChristmasCard
-Christmas Card for discord
+Christmas Card for discord(christmascard.py)
